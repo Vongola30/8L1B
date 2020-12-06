@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Eight leaves One blade</name>
+		<description>The Eight leaves one blade class from Homebrewery.</description>
+		<author url="https://homebrewery.naturalcrit.com/share/bfP5om-4C">@Kai_Cries</author>
+		<update version="0.2.8">
+			<file name="class-8l1b.xml" url="https://homebrewery.naturalcrit.com/source/bfP5om-4C" />
+		</update>
+	</info>
+
+	<element name="Eight leaves one blade" type="Class" source="HomeBrewery" id="ID_HB_CLASS_8l1b">
+		<description>
+			<p>The Eight Leaves One Blade school, wielded by many heroes throughout Zemurian history, has grown in popularity rapidly since its inception many decades ago. It now stands on its own as a well respected school of swordsmanship, right alongside such popular schools as the Vander School, or the Arseid School.</p>
+			<h4>One Blade, One mind</h4>
+			<p>Users of the Eight Leaves One Blade style, as the name might suggest, generally only use one blade. As any good swordsman should strive to do, they seek to make their weapons a literal extension of themselves, swinging them as naturally as swinging an arm.</p>
+			<p>To facilitate this, mastering the style takes years of patient training and dedication. Many practitioners of the Eight Leaves One Blade may spend their entire lives devoted to the style, and still never manage to reach the greatest heights of its mastery.</p>
+			<h4>Divine Blade</h4>
+			<p>Those who do eventually reach enlightenment along the road of the Eight Leaves style are given the title of "Divine Blade". Though these people are few and far between, many of them have gone on to engrave themselves in the annals of history, often having performed heroic deeds on a national scale.</p>
+			<p class="indent">Those who attain this title are often known throughout the cultural spheres of martial artists and swordsmen, so a level of notoriety comes with the weight of the title.</p>
+			<p class="indent">Traditionally, only another Divine Blade can promote an intermediate user to the same rank, usually through a strenuous trial, or an unfathomably difficult duel.</p>
+			<h4>CREATING An Eight Leaves User</h4>
+			<p>When creating a user of the Eight Leaves One Blade style, consider where you recieved your initial training. Was it from a family member? A roaming hermit? Perhaps in your world it's even taught prominently in military academies. The path that led you to the sword is often filled with people that may be important to your character's backstory, so it's important to think about who may have influenced you or taught you what you know.</p>
+			<p class="indent">It's also important to consider what you intend to do with your training. While studying the blade and doing rigorous physical training are good to focus on from time to time, in most cases chasing a goal and using your blade to achieve that goal is what drives your mastery forward. Contemplate what drives your character, and for what purpose they wield their sword. Is it vengeance? To protect their loved ones? For the thrill of adventure? Finding a driven purpose or goal will help give your character a direction, and will expedite their long and arduous journey towards becoming a Divine Blade.</p>
+			<h5 class="caption">QUICK BUILD</h5>
+			<p>You can make an Eight Leaves One Blade user quickly by following these suggestions. First make either Strength or Dexterity your highest ability score. Eight Leaves users wield Finesse weapons, so the choice comes down to your personal preference. Your next highest score should be Constitution for added bulk, or Wisdom if you plan on venturing into the Void or Karmic Flame forms. Finally, choose the Hermit, Folk Hero, or Noble background.</p>
+			<h3>CLASS FEATURES</h3>
+			<p>As an Eight Leaves One Blade user, you gain the following class features.</p>
+            <h5 class="caption">HIT POINTS</h5>
+            <ul class="unstyled">
+                <li><strong>Hit Dice:</strong> 1d8 per Eight Leaves level</li>
+                <li><strong>Hit Points at 1st Level:</strong> 8 + your Constitution modifier</li>
+                <li><strong>Hit Points at Higher Levels:</strong> 1d8 (or 5) + your Constitution modifier per Eight Leaves level after 1st</li>
+            </ul>
+            <h5 class="caption">PROFICIENCIES</h5>
+            <ul class="unstyled mb">
+                <li><strong>Armor:</strong> Light armor, medium armor</li>
+                <li><strong>Weapons:</strong> simple weapons, martial swords</li>
+                <li><strong>Tools:</strong> none</li>
+            </ul>
+            <ul class="unstyled">
+                <li><strong>Saving Throws:</strong> Strength, Dexterity</li>
+                <li><strong>Skills:</strong> Choose two from Acrobatics, Animal Handling, Athletics, History, Investigation, Perception, Sleight of Hand, or Survival</li>
+            </ul>
+			<h5 class="caption">EQUIPMENT</h5>
+			<p>You start with the following equipment, in addition to the equipment granted by your background:</p>
+			<ul>
+				<li>(a) base clothes or (b) leather armor</li>
+				<li>(a) a katana, (b) tachi, or (c) wakizashi</li>
+				<li>an empty combat orbment from your home region</li>
+				<li>(a) a dungeoneer's pack or (b) an explorer's pack</li>
+			</ul>
+			<h5 class="caption">SPELLCASTING</H5>
+			<p>As an Eight Leaves One Blade user, you cannot naturally cast magic, except with the aid of a combat orbment, artifact, or another magical item.</p>
+			<p>When using magic through one of these means, you use Wisdom as your spellcasting ability. Everyone in the world has some level of latent magic, but yours is drawn out through the inner peace you have developed during your training. You use Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.</p>
+			<ul>
+				<li>Spell save DC = 8 + your proficiency bonus + your Wisdom modifier</li>
+				<li>Spell attack modifier = your proficiency bonus + your Wisdom modifier</li>
+			<ul>
+			<h5 class="caption">Eight Leaves One Blade</h5>
+			<table class="class-features">
+				<thead>
+					<tr><td class="col-5">Level</td><td class="col-10">Proficiency Bonus</td><td class="col-60 left">Features</td></tr>
+				</thead>
+				<tr><td> 1st</td><td>+2</td><td class="left">Eighth Form, Blade Attunment</td></tr>
+				<tr><td> 2nd</td><td>+2</td><td class="left">Form Specialization Level</td></tr>
+				<tr><td> 3rd</td><td>+2</td><td class="left">Improved Critial</td></tr>
+				<tr><td> 4th</td><td>+2</td><td class="left">Ability Score Improvement</td></tr>
+				<tr><td> 5th</td><td>+3</td><td class="left">Form Specialization Level (2)</td></tr>
+				<tr><td> 6th</td><td>+3</td><td class="left">Extra Attack</td></tr>
+				<tr><td> 7th</td><td>+3</td><td class="left">Form Specialization Level (3)</td></tr>
+				<tr><td> 8th</td><td>+3</td><td class="left">Ability Score Improvement</td></tr>
+				<tr><td> 9th</td><td>+4</td><td class="left">Form Specialization Level (4)</td></tr>
+				<tr><td>10th</td><td>+4</td><td class="left">Blade Attunement II</td></tr>
+				<tr><td>11th</td><td>+4</td><td class="left">Form Specialization Level (5)</td></tr>
+				<tr><td>12th</td><td>+4</td><td class="left">Ability Score Improvement</td></tr>
+				<tr><td>13th</td><td>+5</td><td class="left">Extra Attack (2)</td></tr>
+				<tr><td>14th</td><td>+5</td><td class="left">Divine Blade (6)</td></tr>
+				<tr><td>15th</td><td>+5</td><td class="left">Form Specialization Level (7)</td></tr>
+				<tr><td>16th</td><td>+5</td><td class="left">Ability Score Improvement</td></tr>
+				<tr><td>17th</td><td>+6</td><td class="left">Form Specialization Level (8)</td></tr>
+				<tr><td>18th</td><td>+6</td><td class="left">Superior Critical</td></tr>
+				<tr><td>19th</td><td>+6</td><td class="left">Ability Score Improvement</td></tr>
+				<tr><td>20th</td><td>+6</td><td class="left">Extra Attack (3)</td></tr>
+			</table>
+			<div element="ID_HB_CLASS_FEATURE_EIGHTHFORM" />
+			<div element="ID_HB_CLASS_FEATURE_BLADEATTUNEMENT" />
+			<div element="ID_HB_CLASS_FEATURE_FORMSPECIALIZATION" />
+			<div element="ID_HB_CLASS_FEATURE_IMPROVEDCRITICAL"/>
+			<div element="ID_HB_CLASS_FEATURE_ABILITYSCOREIMPROVEMENT_8L1B" />
+			<div element="ID_HB_CLASS_FEATURE_DIVINEBLADE" />
+            <div element="ID_HB_CLASS_FEATURE_EXTRAATTACK" />
+
+		</description>
+		<sheet display="false">
+			<description>An unofficial adaptation of The Legend of Heroes' samurai-esque class to dungeons &amp; Dragons 5th Edition</description>
+		</sheet>
+		<setters>
+			<set name="short">An unofficial adaptation of The Legend of Heroes' samurai-esque class to dungeons &amp; Dragons 5th Edition</set>
+			<set name="hd">d10</set>
+		</setters>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" requirements="!ID_WOTC_PHB_MULTICLASS_FIGHTER"/>
+			<grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_MEDIUM_ARMOR" requirements="!ID_WOTC_PHB_MULTICLASS_FIGHTER"/>
+			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SIMPLE_WEAPONS" requirements="!ID_WOTC_PHB_MULTICLASS_FIGHTER"/>
+			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_MARTIAL_WEAPONS" requirements="!ID_WOTC_PHB_MULTICLASS_FIGHTER"/>
+			<grant type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_STRENGTH" requirements="!ID_WOTC_PHB_MULTICLASS_FIGHTER"/>
+			<grant type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_DEXTERITY" requirements="!ID_WOTC_PHB_MULTICLASS_MONK" />
+			<select type="Proficiency" name="Skill Proficiency (Fighter)" supports="Skill,Fighter" number="2" requirements="!ID_WOTC_PHB_MULTICLASS_FIGHTER"/>
+			<grant type="Class Feature" id="ID_HB_CLASS_FEATURE_EIGHTHFORM" level="1"/>
+			<grant type="Class Feature" id="ID_HB_CLASS_FEATURE_BLADEATTUNEMENT" level="1"/>
+			<grant type="Class Feature" id="ID_HB_CLASS_FEATURE_FORMSPECIALIZATION" level="2"/>
+			<grant type="Class Feature" id="ID_HB_CLASS_FEATURE_IMPROVEDCRITICAL" level="3" />
+			<grant type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_ABILITYSCOREIMPROVEMENT_8L1B" level="4"/>
+			<grant type="Class Feature" id="ID_HB_CLASS_FEATURE_EXTRAATTACK" level="5"/>
+			<grant type="Class Feature" id="ID_HB_CLASS_FEATURE_DIVINEBLADE" level="9"/>
+		</rules>
+	</element>
+	<element name="Eighth Form: Weaponless" type="Class Feature" source="Homebrewery" id="ID_HB_CLASS_FEATURE_EIGHTHFORM">
+		<description>
+			<p>Taught prior to learning any other form in the Eight Leaves One Blade style, the Eighth form teaches aspiring students what to do when they are disarmed. You gain proficiency in unarmed strikes, and any unarmed strikes you do now deal 1d4 bludgeoning damage, plus either your Strength or Dexterity modifier.</p>
+			<p class="indent">In addition, while unarmed, you can use the Dodge action as a bonus action during your turn.</p>
+		</description>
+		<rules>
+			<select type="Class Feature" name="Eighth Form" supports="Eighth Form, Fighter" level="1"/>
+		</rules>
+	</element>
+	<element name="Blade Attunement" type="Class Feature" source="Homebrewery" id="ID_HB_CLASS_FEATURE_BLADEATTUNEMENT">
+		<description>
+			<p>You can attune to one katana, tachi, or wakizashi as if it were a magic weapon (it does not count against your magic weapon total). You can only attune to one blade at a time, and attuning to a new one will mean losing your attunement to your prior blade. As with magic weapons, attunement takes at least 1 hour.</p>
+			<p class="indent">Once attuned, you will be able to use the blade to perform all of the special techniques learned later in the class without disadvantage. An attuned blade will also negate slashing resistances, although it will not negate slashing immunities.</p>
+			<p class="indent">At 10th level, blade attunement causes your attuned weapon to behave as if it were a magical weapon, even if it has no innate magic in it.</p>
+		</description>
+		<sheet>
+			<description level="1">Negate slashing resistances.</description>
+			<description level="10">weapon acts as magic weapon</description>
+		</sheet>
+	</element>
+	<element name="Action Surge" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_ACTIONSURGE">
+		<description>
+			<p>Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.</p>
+			<p class="indent">Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.</p>
+		</description>
+		<sheet usage="1/Short Rest">
+			<description>On your turn, you can take one additional action on top of your regular action.</description>
+			<description usage="2/Short Rest" level="17">On your turn, you can take one additional action on top of your regular action.</description>
+		</sheet>
+	</element>
+	<element name="Martial Archetype" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_MARTIALARCHETYPE">
+		<description>
+			<p>At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. The Champion archetype is detailed at the end of the class description; see the Player’s Handbook for information on other martial archetypes. Your archetype grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<select type="Archetype" name="Martial Archetype" supports="Martial Archetype" level="3" />
+		</rules>
+	</element>
+	<element name="Ability Score Improvement" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_ABILITYSCOREIMPROVEMENT_FIGHTER">
+		<compendium display="false" />
+		<description>
+			<p>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<select type="Class Feature" name="Improvement Option (Fighter 4)" supports="Improvement Option,Fighter,4" level="4" />
+			<select type="Class Feature" name="Improvement Option (Fighter 6)" supports="Improvement Option,Fighter,6" level="6" />
+			<select type="Class Feature" name="Improvement Option (Fighter 8)" supports="Improvement Option,Fighter,8" level="8" />
+			<select type="Class Feature" name="Improvement Option (Fighter 12)" supports="Improvement Option,Fighter,12" level="12" />
+			<select type="Class Feature" name="Improvement Option (Fighter 14)" supports="Improvement Option,Fighter,14" level="14" />
+			<select type="Class Feature" name="Improvement Option (Fighter 16)" supports="Improvement Option,Fighter,16" level="16" />
+			<select type="Class Feature" name="Improvement Option (Fighter 19)" supports="Improvement Option,Fighter,19" level="19" />
+		</rules>
+	</element>
+	<element name="Extra Attack" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_EXTRAATTACK">
+		<description>
+			<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>
+			<p class="indent">The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.</p>
+		</description>
+		<sheet>
+			<description level="5">You can attack twice, instead of once, whenever you take the Attack action on your turn</description>
+			<description level="11">You can attack three times, instead of once, whenever you take the Attack action on your turn</description>
+			<description level="20">You can attack four times, instead of once, whenever you take the Attack action on your turn</description>
+		</sheet>
+		<rules>
+			<stat name="extra attack:count" value="2" level="5" bonus="extra attack" />
+			<stat name="extra attack:count" value="3" level="11" bonus="extra attack" />
+			<stat name="extra attack:count" value="4" level="20" bonus="extra attack" />
+		</rules>
+	</element>
+	<element name="Indomitable" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_INDOMITABLE">
+		<description>
+			<p>Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest.</p>
+			<p class="indent">You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.</p>
+		</description>
+		<sheet usage="{{indomitable:usage}}/Long Rest">
+			<description>You can reroll a saving throw that you fail. If you do so, you must use the new roll.</description>
+		</sheet>
+		<rules>
+			<stat name="indomitable:usage" value="1" level="9" />
+			<stat name="indomitable:usage" value="1" level="13" />
+			<stat name="indomitable:usage" value="1" level="17" />
+		</rules>
+	</element>
+
+	<!-- Fighting Styles -->
+	<element name="Archery" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_FIGHTINGSTYLE_ARCHERY">
+		<supports>Fighting Style, Fighter, Ranger</supports>
+		<description>
+			<p>You gain a +2 bonus to attack rolls you make with ranged weapons.</p>
+		</description>
+		<sheet>
+			<description>You gain a +2 bonus to attack rolls you make with ranged weapons.</description>
+		</sheet>
+		<rules>
+			<stat name="ranged:attack" value="2" />
+		</rules>
+	</element>
+</elements>
